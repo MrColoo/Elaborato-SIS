@@ -1,6 +1,6 @@
-Architettura degli Elaboratori
+## Architettura degli Elaboratori
 
-**Relazione Elaborato SIS - Verilog**
+# **Relazione Elaborato SIS - Verilog**
 
 \
 ![](https://lh7-us.googleusercontent.com/fIi7GUHNdbe8n3E9uRexCKiF12tocr0_ptqxRq3GjYPuFKToPvBKS43xZEVVwbxbHYLLsM-qVJ-rO24yxgGiSV4ouVK-iEZmC4aFyjf3tuM0fIqTQKdptujC6TtqzOAnesKLGEZAYUeTUGr1gu-wkjPC1FUlZA3K)
