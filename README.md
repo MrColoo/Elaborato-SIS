@@ -2,33 +2,6 @@
 
 # **Relazione Elaborato SIS - Verilog**
 
-\
-![](https://lh7-us.googleusercontent.com/fIi7GUHNdbe8n3E9uRexCKiF12tocr0_ptqxRq3GjYPuFKToPvBKS43xZEVVwbxbHYLLsM-qVJ-rO24yxgGiSV4ouVK-iEZmC4aFyjf3tuM0fIqTQKdptujC6TtqzOAnesKLGEZAYUeTUGr1gu-wkjPC1FUlZA3K)
-
-
-**SOMMARIO**
-
-[**Architettura generale del circuito** **3**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.gjdgxs)
-
-[**Diagramma della macchina a stati finiti** **4**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.30j0zll)
-
-[**Architettura del datapath** **5**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.1fob9te)
-
-[Vincitore Manche 5](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.3znysh7)
-
-[**Vincitore Partita** **7**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.2et92p0)
-
-[**Schema completo del Datapath** **9**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.tyjcwt)
-
-[**Statistiche del circuito** **10**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.3dy6vkm)
-
-[Pre-ottimizzazione 10](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.1t3h5sf)
-
-[Post-ottimizzazione 10](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.4d34og8)
-
-[**Mapping del circuito** **11**](https://docs.google.com/document/d/1eD_RUWD9Lit_yjdzEdIvKIfh2S0AnTgSSo8Ddpznsms/edit#heading=h.2s8eyo1)
-
-
 # Architettura generale del circuito
 
 L’elaborato assegnato prevede la realizzazione di una macchina in grado di gestire partite di MorraCinese.
